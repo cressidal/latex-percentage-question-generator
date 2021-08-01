@@ -1,4 +1,4 @@
-# latex-percentage-question-generator
+# Latex Percentages question generator
 * generates random percentage related practice questions in latex for an enumerated list of questions
 * outputs a file of working latex code
 
