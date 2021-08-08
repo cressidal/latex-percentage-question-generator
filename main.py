@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug  1 18:24:33 2021
-
-@author: cressidal
-"""
-
 import random as rd
 
 # percentage of quantity questions
